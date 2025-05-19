@@ -1,5 +1,7 @@
 # visionado por ordenador
 
+https://acortar.link/dicampus-visionado
+
 
 
 ## Recursos y Enlaces
