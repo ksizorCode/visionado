@@ -1,7 +1,7 @@
 ## Módulo 01: Qué es la visión por ordenador y sus principales usos 
 
 - **1. Qué es y cómo funciona**
-  - [1_Que es y como funciona.md](modulo_01/1_Qué es y como funciona/1_Que es y como funciona.md)
+  - [Que es y como funciona.md](modulo_01/1_Qué es y como funciona/1_Que es y como funciona.md)
 
 - **2. Breve historia**
   - [2_Breve historia de la Computer Vision.md](modulo_01/2 breve historia/2_Breve historia de la Computer Vision.md)
