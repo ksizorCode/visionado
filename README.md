@@ -95,3 +95,5 @@ Centro de impartición: Fundación Dicampus
 
 - 🤖🤖Listado de Recursos y videos en Figma Jam: https://www.figma.com/board/hRTiO9ABHd99Sl43UsC29m/ia-Vision-Por-ordenador--mis-recursos?node-id=0-1&t=aqPxZeToWx4rlWT5-1
 
+- Entrega ejercicios: https://forms.gle/uWr3zaAF9R4nMhEh9
+
