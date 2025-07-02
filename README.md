@@ -1,5 +1,21 @@
 # Visionado por ordenador
 
+## Recursos y Enlaces
+- 💽 Drive: https://drive.google.com/drive/folders/1N9h-_hKjtDKfviur7enD1LhsvFZLntPE?usp=drive_link
+
+- 🏫 Figma Jam: https://www.figma.com/board/ZZmXP8aOzVZbLC6So1ADHb/Visionado-por-Ordenador?node-id=0-1&t=PmN3ngVPkveObkMd-1
+
+- 🤖🤖Listado de Recursos y videos en Figma Jam:
+- https://www.figma.com/board/hRTiO9ABHd99Sl43UsC29m/ia-Vision-Por-ordenador--mis-recursos?node-id=0-1&t=aqPxZeToWx4rlWT5-1
+
+- 🧮 Figma Jam: Módulos:
+https://www.figma.com/board/YUAhR29X8VAYivtyM6ztIo/M%C3%B3dulos?node-id=0-1&t=cjQdWLcwG4BArgt4-1
+
+- Entrega ejercicios: https://forms.gle/uWr3zaAF9R4nMhEh9
+
+---
+## Temario
+
 El proyecto "Visión artificial: de las imágenes a los datos" es pionero en el desarrollo del del aprendizaje al estar fundamentado en la metodología innovadora DLA (Departamentos laborales en el aula) y tiene como objetivo principal garantizar el acceso al mercado laboral del sector TIC a los colectivos en riesgo de exclusión social causado por diferentes aspectos.
 
 Este proyecto pretende ser un proyecto pionero en el desarrollo del aprendizaje, al estar fundamentado en una metodología innovadora que permita la asimilación de contenidos por parte del alumnado desde la práctica y la realidad laboral a la que se van a tener que enfrentar al finalizar la formación y también durante su vida laboral. Se trata de una formación muy innovadora en el campo TIC, de la que no existe formación en el catálogo de especialidades ni certificados de profesionalidad.
@@ -88,16 +104,5 @@ Centro de impartición: Fundación Dicampus
 --- 
 
 
-## Recursos y Enlaces
-- 💽 Drive: https://drive.google.com/drive/folders/1N9h-_hKjtDKfviur7enD1LhsvFZLntPE?usp=drive_link
 
-- 🏫 Figma Jam: https://www.figma.com/board/ZZmXP8aOzVZbLC6So1ADHb/Visionado-por-Ordenador?node-id=0-1&t=PmN3ngVPkveObkMd-1
-
-- 🤖🤖Listado de Recursos y videos en Figma Jam:
-- https://www.figma.com/board/hRTiO9ABHd99Sl43UsC29m/ia-Vision-Por-ordenador--mis-recursos?node-id=0-1&t=aqPxZeToWx4rlWT5-1
-
-- 🧮 Figma Jam: Módulos:
-https://www.figma.com/board/YUAhR29X8VAYivtyM6ztIo/M%C3%B3dulos?node-id=0-1&t=cjQdWLcwG4BArgt4-1
-
-- Entrega ejercicios: https://forms.gle/uWr3zaAF9R4nMhEh9
 
