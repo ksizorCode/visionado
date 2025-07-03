@@ -4,12 +4,12 @@
 
 | Recurso       | URL                             |
 |---------------|---------------------------------|
-|💽 Drive:  | [Ver](https://drive.google.com/drive/folders/1N9h-_hKjtDKfviur7enD1LhsvFZLntPE?usp=drive_link)|
-|🏫 Figma Jam:  | [Ver](https://www.figma.com/board/ZZmXP8aOzVZbLC6So1ADHb/Visionado-por-Ordenador?node-id=0-1&t=PmN3ngVPkveObkMd-1)|
-|🤖 Listado Videos:| [Ver](https://www.figma.com/board/hRTiO9ABHd99Sl43UsC29m/ia-Vision-Por-ordenador--mis-recursos?node-id=0-1&t=aqPxZeToWx4rlWT5-1)|
-|🧮 Figma Jam: Módulos   | [Ver](https://www.figma.com/board/YUAhR29X8VAYivtyM6ztIo/M%C3%B3dulos?node-id=0-1&t=cjQdWLcwG4BArgt4-1)|
-|Google ClassRoom    | Entrega ejercicios: https://forms.gle/uWr3zaAF9R4nMhEh9|
-
+|💽 Material:  | [Acceder a Google Drive](https://drive.google.com/drive/folders/1N9h-_hKjtDKfviur7enD1LhsvFZLntPE?usp=drive_link)|
+|🏫 Figma Jam:  | [Ver Pizarra de Figma Jam](https://www.figma.com/board/ZZmXP8aOzVZbLC6So1ADHb/Visionado-por-Ordenador?node-id=0-1&t=PmN3ngVPkveObkMd-1)|
+|🤖 Videos:| [Ver Listado de Videos](https://www.figma.com/board/hRTiO9ABHd99Sl43UsC29m/ia-Vision-Por-ordenador--mis-recursos?node-id=0-1&t=aqPxZeToWx4rlWT5-1)|
+|🧮 Esquema Módulos | [Acceder a Figma Jam con esquema de Módulos](https://www.figma.com/board/YUAhR29X8VAYivtyM6ztIo/M%C3%B3dulos?node-id=0-1&t=cjQdWLcwG4BArgt4-1)|
+|🏛️ Google ClassRoom    | [Acceder a Google ClassRoom](https://forms.gle/uWr3zaAF9R4nMhEh9)|
+|🧑‍🏫 Moodle | [Acceder al Moodle de Dicampus](https:sepe.dicampus.es)|
 ---
 ### Githubs de compañeros
 
