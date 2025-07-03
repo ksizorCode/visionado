@@ -21,7 +21,7 @@ https://www.figma.com/board/YUAhR29X8VAYivtyM6ztIo/M%C3%B3dulos?node-id=0-1&t=cj
 | Alumno | Github |
 |--------|--------|
 |Alvaro  | https://github.com/alvarfer22|
-|Manuel  | https://github.com/manuelguitierrezgarcia|
+|Manuel  | https://github.com/manuelgutierrezgarcia|
 |Fernanda| https://github.com/fersotoapse|
 |David   | https://github.com/davade987|
 |Javi    | https://github.com/yioqse|
