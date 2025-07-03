@@ -1,6 +1,6 @@
-# Visionado por ordenador
+# 👓 Visionado por ordenador
 
-## Recursos y Enlaces
+## 🖥️ Recursos y Enlaces
 
 | Recurso       | URL                             |
 |---------------|---------------------------------|
@@ -10,22 +10,21 @@
 |🏛️ Google ClassRoom    | [Acceder a Google ClassRoom](https://forms.gle/uWr3zaAF9R4nMhEh9)|
 |🧑‍🏫 Moodle | [Acceder al Moodle de Dicampus - retos - ](https:sepe.dicampus.es)|
 ---
-### Githubs de compañeros
-
+### 🖱️ GITHUBs de compañeros
 
 | Alumno | Github |
 |--------|--------|
-|👨‍🚀 Alvaro  | https://github.com/alvarfer22|
 |🧸 Manuel  | https://github.com/manuelgutierrezgarcia|
-|🐈 Fernanda| https://github.com/fersotoapse|
+|👨‍🚀 Alvaro  | https://github.com/alvarfer22|
 |🐠 David   | https://github.com/davade987|
-|🌍 Javi    | https://github.com/yioqse|
 |🚴 Edu     | https://github.com|
 |🎮 Juan    | https://github.com|
+|🐈 Fernanda| https://github.com/fersotoapse|
+|🌍 Javi    | https://github.com/yioqse|
 |🐜 Franklin    | https://github.com|
 
 
-
+---
 
 ### Otros Github
 Proyectos externos interesantes:
