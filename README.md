@@ -17,9 +17,10 @@ https://www.figma.com/board/YUAhR29X8VAYivtyM6ztIo/M%C3%B3dulos?node-id=0-1&t=cj
 ---
 
 ### Github
-Proyectos chulos encontrados en Github:
+Proyectos externos interesantes:
 
-https://github.com/alfalatam/MII-Vision-por-ordenador/tree/main
+Ejemplos de Google Colab de Computer vision: https://github.com/alfalatam/MII-Vision-por-ordenador/tree/main
+Apuntes de Visionado por ordenador: https://github.com/aizzaac/Vision_por_Ordenador_y_Analisis_de_imagen
 
 
 
