@@ -15,8 +15,20 @@ https://www.figma.com/board/YUAhR29X8VAYivtyM6ztIo/M%C3%B3dulos?node-id=0-1&t=cj
 
 - Entrega ejercicios: https://forms.gle/uWr3zaAF9R4nMhEh9
 ---
+### Githubs de compañeros
 
-### Github
+
+| Alumno | Github |
+|--------|--------|
+|Alvaro  | https://github.com/alvarfer22|
+|Manuel  | https://github.com/manuelguitierrezgarcia|
+|Fernanda| https://github.com/fersotoapse|
+|David   | https://github.com/davade987|
+|Javi    | https://github.com/yioqse|
+
+
+
+### Otros Github
 Proyectos externos interesantes:
 
 - Ejemplos de Google Colab de Computer vision: https://github.com/alfalatam/MII-Vision-por-ordenador/tree/main
