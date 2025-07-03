@@ -1,19 +1,19 @@
 # Visionado por ordenador
 
 ## Recursos y Enlaces
-- 💽 Drive:
-https://drive.google.com/drive/folders/1N9h-_hKjtDKfviur7enD1LhsvFZLntPE?usp=drive_link
 
-- 🏫 Figma Jam:
-https://www.figma.com/board/ZZmXP8aOzVZbLC6So1ADHb/Visionado-por-Ordenador?node-id=0-1&t=PmN3ngVPkveObkMd-1
+| Recurso       | URL                             |
+|---------------|---------------------------------|
+|💽 Drive:  | [Ver](https://drive.google.com/drive/folders/1N9h-_hKjtDKfviur7enD1LhsvFZLntPE?usp=drive_link
+)|
+|🏫 Figma Jam:  | [Ver](https://www.figma.com/board/ZZmXP8aOzVZbLC6So1ADHb/Visionado-por-Ordenador?node-id=0-1&t=PmN3ngVPkveObkMd-1
+)|
+|🤖 Listado Videos:| [Ver](https://www.figma.com/board/hRTiO9ABHd99Sl43UsC29m/ia-Vision-Por-ordenador--mis-recursos?node-id=0-1&t=aqPxZeToWx4rlWT5-1
+)|
+|🧮 Figma Jam: Módulos   | [Ver](https://www.figma.com/board/YUAhR29X8VAYivtyM6ztIo/M%C3%B3dulos?node-id=0-1&t=cjQdWLcwG4BArgt4-1
+)|
+|Google ClassRoom    | Entrega ejercicios: https://forms.gle/uWr3zaAF9R4nMhEh9|
 
-- 🤖🤖Listado de Recursos y videos en Figma Jam:
-https://www.figma.com/board/hRTiO9ABHd99Sl43UsC29m/ia-Vision-Por-ordenador--mis-recursos?node-id=0-1&t=aqPxZeToWx4rlWT5-1
-
-- 🧮 Figma Jam: Módulos:
-https://www.figma.com/board/YUAhR29X8VAYivtyM6ztIo/M%C3%B3dulos?node-id=0-1&t=cjQdWLcwG4BArgt4-1
-
-- Entrega ejercicios: https://forms.gle/uWr3zaAF9R4nMhEh9
 ---
 ### Githubs de compañeros
 
