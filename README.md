@@ -15,11 +15,15 @@
 
 | Alumno | Github |
 |--------|--------|
-|Alvaro  | https://github.com/alvarfer22|
-|Manuel  | https://github.com/manuelgutierrezgarcia|
-|Fernanda| https://github.com/fersotoapse|
-|David   | https://github.com/davade987|
-|Javi    | https://github.com/yioqse|
+|👨‍🚀 Alvaro  | https://github.com/alvarfer22|
+|🧸 Manuel  | https://github.com/manuelgutierrezgarcia|
+|🐈 Fernanda| https://github.com/fersotoapse|
+|🐠 David   | https://github.com/davade987|
+|🌍 Javi    | https://github.com/yioqse|
+|🚴 Edu     | https://github.com|
+|🎮 Juan    | https://github.com|
+|🐜 Franklin    | https://github.com|
+
 
 
 
