@@ -14,6 +14,15 @@ https://www.figma.com/board/hRTiO9ABHd99Sl43UsC29m/ia-Vision-Por-ordenador--mis-
 https://www.figma.com/board/YUAhR29X8VAYivtyM6ztIo/M%C3%B3dulos?node-id=0-1&t=cjQdWLcwG4BArgt4-1
 
 - Entrega ejercicios: https://forms.gle/uWr3zaAF9R4nMhEh9
+---
+
+### Github
+Proyectos chulos encontrados en Github:
+
+https://github.com/alfalatam/MII-Vision-por-ordenador/tree/main
+
+
+
 
 ---
 ## Temario
