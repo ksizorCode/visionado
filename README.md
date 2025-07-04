@@ -37,12 +37,12 @@ Apps:
 
 |Desarrollador/a|URL|
 |---|---|
-|Profe (Miguel)| https://ksizorcode.github.io/visionado/ |
+| Profe (Miguel) | https://ksizorcode.github.io/visionado/ |
 | Fernanda | https://fersotoapse.github.io/roboflow_laboral-gijon/ |
-| David | https://davade987.github.io/appweb|
+| David | https://davade987.github.io/AppWeb/|
 | Edu | https://ybaseta.github.io/ex_curso_visio_web_with_roboflow_image_detection/|
-|Alvaro| https://alvarfer22.github.io/identificador_roboflow|
-|Juan|https://portal77092.github.io/WebapRoboflow|
+| Alvaro | https://alvarfer22.github.io/identificador_roboflow|
+| Juan |https://portal77092.github.io/WebapRoboflow|
 
 ---
 
