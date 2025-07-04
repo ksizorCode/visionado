@@ -31,8 +31,7 @@ Detector de elementos de la fachada de la Universidad Laboral de Gijón
 |-----|--------|----|----|---|---|
 |G001| Alvaro Eduardo Manuel David| [univers.roboflow](https://app.roboflow.com/dicampus/universidad-laboral/)|Fachada Laboral| ![image](https://github.com/user-attachments/assets/d9399257-0913-416e-9593-f5a429a20de9)|[Web App](https://demo.roboflow.com/universidad-laboral/6?publishable_key=rf_eeXth5tiR9O7pYByKLBZQYsEgf72)
 |G002| Juan Fraklin Fernanda Javier| [univers.roboflow](https://universe.roboflow.com/practica-ij9lc/laboral)| Fachada Laboral| ![image](https://github.com/user-attachments/assets/0cab3509-a983-49a2-b43b-bcaf9aacc979)|[Web App](https://demo.roboflow.com/laboral/8?publishable_key=rf_XxAyLexJt7N6qCrbFh3bRbDePjw1)|
-|G003| Fernanda| [univers.roboflow](https://universe.roboflow.com/practica-ij9lc/laboral)| Fachada Laboral|![image](https://github.com/user-attachments/assets/8d68f01f-66f3-451d-b1bd-4ceb3893fd86)
-|[Web App](https://demo.roboflow.com/elementos_arquitectonicos-object-detection/1?publishable_key=rf_cITSN6k0eYN8wtSOi7P4crWZus63)|
+|G003| Fernanda| [univers.roboflow](https://universe.roboflow.com/practica-ij9lc/laboral)| Fachada Laboral|![image](https://github.com/user-attachments/assets/8d68f01f-66f3-451d-b1bd-4ceb3893fd86)|[Web App](https://demo.roboflow.com/elementos_arquitectonicos-object-detection/1?publishable_key=rf_cITSN6k0eYN8wtSOi7P4crWZus63)|
 
 ---
 
