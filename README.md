@@ -28,9 +28,9 @@
 
 |Grupo| Alumnos| URL| Qué detecta|
 |-----|--------|----|----|
-|G001| Manuel, Alvaro, Edu, David| (Ir a web)[https://app.roboflow.com/dicampus/universidad-laboral/]| Elementos Fachada Laboral|
-|G002| Juan, Franklin, Fernanda, Roberto| (Ir a web)[https://universe.roboflow.com/practica-ij9lc/laboral]| Elementos Fachada Laboral|
-|G003| Fernanda| (Ir a web)[https://universe.roboflow.com/practica-ij9lc/laboral]| Elementos Fachada Laboral|
+|G001| Manuel, Alvaro, Edu, David| [Ir a web](https://app.roboflow.com/dicampus/universidad-laboral/)| Elementos Fachada Laboral|
+|G002| Juan, Franklin, Fernanda, Rober, Javi| [Ir a web](https://universe.roboflow.com/practica-ij9lc/laboral)| Elementos Fachada Laboral|
+|G003| Fernanda| [Ir a web](https://universe.roboflow.com/practica-ij9lc/laboral)| Elementos Fachada Laboral|
 
 ---
 
