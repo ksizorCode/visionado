@@ -24,7 +24,7 @@
 |🐜 Franklin    | https://github.com/franklin-nanclares|
 
 
-## Entranamientos Roboflow - Reto002/003
+## 🤖 Entranamientos Roboflow - Reto002/003
 
 |Grupo| Alumnos| URL| Qué detecta|
 |-----|--------|----|----|
