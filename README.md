@@ -41,7 +41,8 @@ Apps:
 | Fernanda | https://fersotoapse.github.io/roboflow_laboral-gijon/ |
 | David | https://davade987.github.io/appweb|
 | Edu | https://ybaseta.github.io/ex_curso_visio_web_with_roboflow_image_detection/|
-|Alvaro| |https://alvarfer22.github.io/identificador_roboflow|
+|Alvaro| https://alvarfer22.github.io/identificador_roboflow|
+|Juan|https://portal77092.github.io/WebapRoboflow|
 
 ---
 
