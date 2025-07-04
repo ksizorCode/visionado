@@ -34,7 +34,14 @@ Detector de elementos de la fachada de la Universidad Laboral de Gijón
 |G003| Fernanda| [univers.roboflow](https://universe.roboflow.com/fervisionado/elementos_arquitectonicos-object-detection)| Fachada Laboral|![image](https://github.com/user-attachments/assets/8d68f01f-66f3-451d-b1bd-4ceb3893fd86)|[Web App](https://demo.roboflow.com/elementos_arquitectonicos-object-detection/1?publishable_key=rf_cITSN6k0eYN8wtSOi7P4crWZus63)|
 
 Apps:
-- https://ksizorcode.github.io/visionado/
+
+|Desarrollador/a|URL|
+|---|---|
+|Profe (Miguel)| https://ksizorcode.github.io/visionado/ |
+| Fernanda | https://fersotoapse.github.io/roboflow_laboral-gijon/ |
+| David | https://davade987.github.io/appweb|
+| Edu | https://ybaseta.github.io/|
+|Alvaro| |https://alvarfer22.github.io/identificador_roboflow|
 
 ---
 
