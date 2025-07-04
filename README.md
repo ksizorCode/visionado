@@ -32,6 +32,9 @@
 |G002| Juan, Franklin, Fernanda, Rober, Javi| [Ir a web](https://universe.roboflow.com/practica-ij9lc/laboral)| Elementos Fachada Laboral|
 |G003| Fernanda| [Ir a web](https://universe.roboflow.com/practica-ij9lc/laboral)| Elementos Fachada Laboral|
 
+![image](https://github.com/user-attachments/assets/ec89d568-d623-40a1-b94b-6f9174a4faee)
+
+
 ---
 
 ### Otros Github
