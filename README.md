@@ -46,7 +46,7 @@ Apps:
 
 ---
 
-### Otros Github
+### 💾 Otros Github
 Proyectos externos interesantes:
 
 - Ejemplos de Google Colab de Computer vision: https://github.com/alfalatam/MII-Vision-por-ordenador/tree/main
@@ -54,10 +54,30 @@ Proyectos externos interesantes:
 - Proyecto Tracking: https://github.com/lauragomezpena/ProyectoFinal_Vision
 
 
+###📚 Otros Cursos y Recursos
+
+|Recurso|URL|
+|---|---|
+|Curso Coursea (free)|[Detección de Objetos](https://www.coursera.org/learn/deteccion-objetos)|
+|Curso Coursea (free)|[Visión Artificial](https://www.coursera.org/learn/maia-mooc-vision-artificial-contemporanea)|
+|Curso Coursea (free)|[Cómo reconocer el contenido de una imagen](https://www.coursera.org/learn/clasificacion-imagenes)|
+|Curso iA Santander Academy|https://app.santanderopenacademy.com/es/program/search|
+|Cursos Fundación Telefónica|https://discover.profuturo.education/global/escuela/escuela-de-pensamiento-computacional-e-inteligencia-artificial/|
+|Google Cloud - Computer Vision Course|https://www.cloudskillsboost.google/course_templates/18?locale=es|
+|Cursos Google|https://grow.google/intl/es/courses-and-tools/|
+|Apuntes|https://github.com/alfalatam/MII-Vision-por-ordenador|
+|Awesome|https://github.com/jbhuang0604/awesome-computer-vision|
+|Ejemplos|https://github.com/niconielsen32/ComputerVision|
+
+
+#### 🎬 Proyectos con Computer Vision
+|Proyecto| URL|
+|---|---|
+|Señales Trafico|https://github.com/merygon/Vision-por-Ordenador|
 
 
 ---
-## Temario
+## 📑 Temario
 
 El proyecto "Visión artificial: de las imágenes a los datos" es pionero en el desarrollo del del aprendizaje al estar fundamentado en la metodología innovadora DLA (Departamentos laborales en el aula) y tiene como objetivo principal garantizar el acceso al mercado laboral del sector TIC a los colectivos en riesgo de exclusión social causado por diferentes aspectos.
 
