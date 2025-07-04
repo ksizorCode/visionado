@@ -25,10 +25,11 @@
 
 
 ## 🤖 Entranamientos Roboflow - Reto002/003
+Detector de elementos de la fachada de la Universidad Laboral de Gijón
 
-|Grupo| Alumnos| URL|  QR App|
-|-----|--------|----|----|
-|G001| Alv Edu Man Dav| [ver](https://app.roboflow.com/dicampus/universidad-laboral/)| ![image](https://github.com/user-attachments/assets/d9399257-0913-416e-9593-f5a429a20de9)|
+|Grupo| Alumnos| URL|Tema| QR App|
+|-----|--------|----|----|---|
+|G001| Alv Edu Man Dav| [ver](https://app.roboflow.com/dicampus/universidad-laboral/)|Elementos Fachada Laboral| ![image](https://github.com/user-attachments/assets/d9399257-0913-416e-9593-f5a429a20de9)|
 |G002| Jua Frk Fer Jav| [ver](https://universe.roboflow.com/practica-ij9lc/laboral)| Elementos Fachada Laboral|
 |G003| Fer| [ver](https://universe.roboflow.com/practica-ij9lc/laboral)| Elementos Fachada Laboral|
 
