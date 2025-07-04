@@ -40,7 +40,7 @@ Apps:
 |Profe (Miguel)| https://ksizorcode.github.io/visionado/ |
 | Fernanda | https://fersotoapse.github.io/roboflow_laboral-gijon/ |
 | David | https://davade987.github.io/appweb|
-| Edu | https://ybaseta.github.io/|
+| Edu | https://ybaseta.github.io/ex_curso_visio_web_with_roboflow_image_detection/|
 |Alvaro| |https://alvarfer22.github.io/identificador_roboflow|
 
 ---
