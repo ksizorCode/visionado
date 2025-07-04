@@ -21,7 +21,7 @@
 |🎮 Juan    | https://github.com/portal77092|
 |🐈 Fernanda| https://github.com/fersotoapse|
 |🌍 Javi    | https://github.com/yioqse|
-|🐜 Franklin    | https://github.com/franklin.nanclares|
+|🐜 Franklin    | https://github.com/franklin-nanclares|
 
 
 ---
