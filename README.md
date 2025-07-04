@@ -18,10 +18,10 @@
 |👨‍🚀 Alvaro  | https://github.com/alvarfer22|
 |🐠 David   | https://github.com/davade987|
 |🚴 Edu     | https://github.com|
-|🎮 Juan    | https://github.com|
+|🎮 Juan    | https://github.com/portal77092|
 |🐈 Fernanda| https://github.com/fersotoapse|
 |🌍 Javi    | https://github.com/yioqse|
-|🐜 Franklin    | https://github.com|
+|🐜 Franklin    | https://github.com/franklin.nanclares|
 
 
 ---
