@@ -28,10 +28,9 @@
 
 |Grupo| Alumnos| URL|  QR App|
 |-----|--------|----|----|
-|G001| Manuel, Alvaro, Edu, David| [Ir a web](https://app.roboflow.com/dicampus/universidad-laboral/)| ![image](https://github.com/user-attachments/assets/d9399257-0913-416e-9593-f5a429a20de9)
-|
-|G002| Juan, Franklin, Fernanda, Rober, Javi| [Ir a web](https://universe.roboflow.com/practica-ij9lc/laboral)| Elementos Fachada Laboral|
-|G003| Fernanda| [Ir a web](https://universe.roboflow.com/practica-ij9lc/laboral)| Elementos Fachada Laboral|
+|G001| Alv Edu Man Dav| [ver](https://app.roboflow.com/dicampus/universidad-laboral/)| ![image](https://github.com/user-attachments/assets/d9399257-0913-416e-9593-f5a429a20de9)|
+|G002| Jua Frk Fer Jav| [ver](https://universe.roboflow.com/practica-ij9lc/laboral)| Elementos Fachada Laboral|
+|G003| Fer| [ver](https://universe.roboflow.com/practica-ij9lc/laboral)| Elementos Fachada Laboral|
 
 
 ---
