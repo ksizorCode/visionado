@@ -17,7 +17,7 @@
 |🧸 Manuel  | https://github.com/manuelgutierrezgarcia|
 |👨‍🚀 Alvaro  | https://github.com/alvarfer22|
 |🐠 David   | https://github.com/davade987|
-|🚴 Edu     | https://github.com|
+|🚴 Edu     | https://github.com/ybaseta|
 |🎮 Juan    | https://github.com/portal77092|
 |🐈 Fernanda| https://github.com/fersotoapse|
 |🌍 Javi    | https://github.com/yioqse|
