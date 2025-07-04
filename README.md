@@ -37,7 +37,7 @@ Apps:
 
 |Desarrollador/a|URL|
 |---|---|
-| Profe (Miguel) | https://ksizorcode.github.io/visionado/ |
+| Profe (Miguel) | https://ksizorcode.github.io/visionado/ y [version css Terminator](https://ksizorcode.github.io/visionado/app.html)|
 | Fernanda | https://fersotoapse.github.io/roboflow_laboral-gijon/ |
 | David | https://davade987.github.io/AppWeb/|
 | Edu | https://ybaseta.github.io/ex_curso_visio_web_with_roboflow_image_detection/|
