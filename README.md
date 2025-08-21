@@ -4,9 +4,9 @@
 
 Interactividad 3D 
 
-[Interactivo 3D Web con click sobre sillín](https://app.vectary.com/p/67543LhAQGu3X0h9aKJUuJ)
-[Realidad Aumentada (AR) iPhone (iOS) - .usdz]()
-[Realidad Aumentada (AR) Android (Chrome) - .glb]()
+- [Interactivo 3D Web con click sobre sillín](https://app.vectary.com/p/67543LhAQGu3X0h9aKJUuJ)
+- [Realidad Aumentada (AR) iPhone (iOS) - .usdz]()
+- [Realidad Aumentada (AR) Android (Chrome) - .glb]()
 
 
 
