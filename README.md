@@ -1,5 +1,9 @@
 # 👓 Visionado por ordenador
 
+## Cosillas 3D:
+
+[Interactivo 3D](https://app.vectary.com/p/67543LhAQGu3X0h9aKJUuJ)
+
 ## 🖥️ Recursos y Enlaces
 
 | Recurso       | URL                             |
