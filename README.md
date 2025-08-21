@@ -5,8 +5,8 @@
 Interactividad 3D 
 
 - [Interactivo 3D Web con click sobre sillín](https://app.vectary.com/p/67543LhAQGu3X0h9aKJUuJ)
-- [Realidad Aumentada (AR) iPhone (iOS) - .usdz]()
-- [Realidad Aumentada (AR) Android (Chrome) - .glb]()
+- [Realidad Aumentada (AR) iPhone (iOS) - .usdz](https://github.com/ksizorCode/visionado/raw/refs/heads/main/modulo_04/SillinBici2.usdz)
+- [Realidad Aumentada (AR) Android (Chrome) - .glb](https://github.com/ksizorCode/visionado/raw/refs/heads/main/modulo_04/SillinBici_GLB.glb)
 
 
 
